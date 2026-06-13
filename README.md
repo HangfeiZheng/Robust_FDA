@@ -1,5 +1,5 @@
 # Robust Discriminant Subspace Learning with $\alpha$-divergence for Image Classification
-This paper has been published at IEEE Transactions on Image Processing (https://doi.org/10.1109/TIP.2026.3700924)
+This paper has been published at IEEE Transactions on Image Processing (https://doi.org/10.1109/TIP.2026.3700924)\\
 Hangfei Zheng, Abd-Krim Seghouane, and Djamal Merad
 
 # Overview
